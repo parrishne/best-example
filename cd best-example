@@ -1,0 +1,4 @@
+$ touch README.md
+$ touch index.html
+$ mkdir js
+$ touch js/script.js
