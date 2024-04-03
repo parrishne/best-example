@@ -37,3 +37,4 @@ mape = mean_absolute_error(actual_load_factor, predicted_load_factor) / actual_l
 print("Predicted Load Factor for 2023:", predicted_load_factor)
 print("Actual Load Factor for 2023:", actual_load_factor.values)
 print("Mean Absolute Percentage Error: {:.2f}%".format(mape))  # Print MAPE as a percentage
+print("Brewers")
